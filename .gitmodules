@@ -1,0 +1,8 @@
+[submodule "sweety-blockchain-gui"]
+	path = sweety-blockchain-gui
+	url = https://github.com/Sweety-Network/sweety-blockchain-gui.git
+	branch = pools
+[submodule "mozilla-ca"]
+	path = mozilla-ca
+	url = https://github.com/Sweety-Network/mozilla-ca.git
+        branch = main
